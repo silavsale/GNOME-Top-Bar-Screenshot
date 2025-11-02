@@ -1,0 +1,7 @@
+{
+  "uuid": "quick-screenshot@sergiy",
+  "name": "Quick Screenshot",
+  "description": "One-click button to open GNOME’s Screenshot UI",
+  "version": 1,
+  "shell-version": ["49", "48", "47"]
+}
